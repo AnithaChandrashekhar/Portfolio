@@ -1,2 +1,2 @@
 # Portfolio
-portfolio-  Organizing our Educational & Technical skills background.
+portfolio-  Organizing our Educational & Technical skills .
